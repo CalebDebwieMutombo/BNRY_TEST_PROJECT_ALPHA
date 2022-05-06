@@ -1,17 +1,14 @@
 # Hi Tashreek Jackson @ BNRY
 
-This project was created as my second attempt to an internship at BNRY
-
+This project was created as my third attempt to an internship at BNRY
 
 ## How to install this Project
 To run this project, install it locally using npm:
 
 ```
-$ npm install
-$ npm start
+$ npm 
+$ node app.js
 ```
-# if you are using visual studio code don't forget to insall live Sass Compiler
-
 
 ### Introduction
 The instuctions written here, are used to Boostrap this project with UI, Look and feel.
