@@ -1,16 +1,21 @@
 # Hi Tashreek Jackson @ BNRY
 
+
+
 This project was created as my third attempt to an internship at BNRY
 
 ## How to install this Project
 To run this project, install it locally using npm:
 
 ```
-$ npm 
+$ npm install
 $ node app.js
 ```
 
-### Introduction
+### Then go to your browser and type in the search bar at the top "http://localhost:3000/" 
+
+
+#EXTRA INFO
 The instuctions written here, are used to Boostrap this project with UI, Look and feel.
 
 ### Bootstrap Components Cannot Be Included with React
